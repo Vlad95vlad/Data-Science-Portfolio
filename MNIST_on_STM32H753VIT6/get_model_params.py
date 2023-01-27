@@ -6,7 +6,7 @@ import numpy
 numpy.set_printoptions(threshold=sys.maxsize)
 model = load_model('seq_mnist.h5')
 
-plot_model(model, "my_first_model_with_shape_info.png", show_shapes=True)
+plot_model(model, "model_with_shape_info.png", show_shapes=True)
 #print(model.get_config())
 print(model.summary())
 weight = model.get_weights()
