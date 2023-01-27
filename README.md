@@ -11,8 +11,8 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 - ### Machine Learning
 
-       - [MNIST on MCU](https://github.com/Vlad95vlad/Data-Science-Portfolio/tree/main/MNIST_on_STM32H753VIT6): A model to recognize handwritten numbers from 0 to 9 deployed on MCU STM32H753VIT6.
-       - [Tennis ATP](https://github.com/Vlad95vlad/Data-Science-Portfolio/tree/main/Tennis_atp_project): Model for winner prediction in ATP tennis matches.
+	- [MNIST on MCU](https://github.com/Vlad95vlad/Data-Science-Portfolio/tree/main/MNIST_on_STM32H753VIT6): A model to recognize handwritten numbers from 0 to 9 deployed on MCU STM32H753VIT6.
+	- [Tennis ATP](https://github.com/Vlad95vlad/Data-Science-Portfolio/tree/main/Tennis_atp_project): Model for winner prediction in ATP tennis matches.
  
 	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib, TensorFlow, Keras
 
